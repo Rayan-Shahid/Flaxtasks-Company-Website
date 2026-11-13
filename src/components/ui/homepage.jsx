@@ -77,8 +77,8 @@ const homepage = () => {
               <Button>
                 {" "}
                 <a href="https://www.linkedin.com/company/flaxtasks" target="_blank" rel="noopener noreferrer">
-  Learn More
-</a>
+                  Learn More
+                </a>
 
               </Button>
             </CardFooter>
@@ -102,8 +102,8 @@ const homepage = () => {
             <CardFooter>
               {/* <p>Learn More...?</p> */}
               <Button><a href="https://www.linkedin.com/company/flaxtasks" target="_blank" rel="noopener noreferrer">
-  Learn More
-</a></Button>
+                Learn More
+              </a></Button>
             </CardFooter>
           </Card>
           <Card>
@@ -124,8 +124,8 @@ const homepage = () => {
             <CardFooter>
               {/* <p>Learn More...?</p> */}
               <Button><a href="https://www.linkedin.com/company/flaxtasks" target="_blank" rel="noopener noreferrer">
-  Learn More
-</a></Button>
+                Learn More
+              </a></Button>
             </CardFooter>
           </Card>
         </div>
