@@ -27,7 +27,7 @@ import {
 } from "@/components/ui/accordion";
 
 import image1 from "./images/bnr.webp";
-import Img from "./images/ai.jpeg";
+import Img from "./images/Ai.jpeg";
 import Img2 from "./images/a.png";
 import Img3 from "./images/code.jpg";
 import Herosection from "./Herosection";
