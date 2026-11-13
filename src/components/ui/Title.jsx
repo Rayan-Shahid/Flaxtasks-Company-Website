@@ -1,12 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
 
+
 export const Title = () => {
   return (
     <StyledWrapper>
       <div className="card">
         <div className="content">
-          <h2 className="headings">Driving Your Business Forward with Accuracy & Technology</h2>
+          <h2 className="headings">Driving Your Business Forward with Accuracy & Technology.</h2>
         </div>
       </div>
     </StyledWrapper>
