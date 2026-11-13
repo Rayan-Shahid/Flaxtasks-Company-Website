@@ -30,7 +30,7 @@ export const Testimonials = () => {
                                     </div>
                                     <div className="aside">
                                         <p>
-                                            Flaxtasks built a professional website for NP Marts and streamlined all our accounting processes. Their expertise in managing our accounts has been instrumental in driving our business growth.
+                                            Flaxtasks built a professional website for NP Marts and streamlined all of our accounting processes. Their expertise in managing our accounts has been instrumental in driving our business growth.
                                         </p>
                                         <div className="name">
                                             <h4>Arshad Nazir Rana</h4>
