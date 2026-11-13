@@ -11,7 +11,7 @@ import bubble from "../ui/images/16.png";
 import sage from "../ui/images/sage.png";
 import zero from "../ui/images/xero.png";
 import excel from "../ui/images/excel.png";
-import react from "../ui/images/react-icon.svg.png";
+import react from "../ui/images/React-icon.svg.png";
 import qb from "../ui/images/qb.png";
 import shopify from "../ui/images/12.png";
 import sql from "../ui/images/6.png";
